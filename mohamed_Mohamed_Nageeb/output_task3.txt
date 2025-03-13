@@ -1,0 +1,65 @@
+Welcome To "Basic Calculator" 
+
+  The Operations in calculator are:        
+  =========================================
+  1. Addition
+  2. Subtraction
+  3. Multiplication
+  4. Division
+  5. Exit
+Select The Operation You Want To Perform (1/2/3/4/5): 1
+Enter First Number: 5
+Enter Second Number: 2
+5.0 + 2.0 = 7.0
+Do you want to perform another calculation? (y/n): y
+==================================================
+
+  The Operations in calculator are:
+  =========================================
+  1. Addition
+  2. Subtraction
+  3. Multiplication
+  4. Division
+  5. Exit
+Select The Operation You Want To Perform (1/2/3/4/5): 3
+Enter First Number: 5
+Enter Second Number: 3
+5.0 * 3.0 = 15.0
+Do you want to perform another calculation? (y/n): y
+==================================================
+
+  The Operations in calculator are:
+  =========================================
+  1. Addition
+  2. Subtraction
+  3. Multiplication
+  4. Division
+  5. Exit
+Select The Operation You Want To Perform (1/2/3/4/5): 4
+Enter First Number: 5
+Enter Second Number: 0
+5.0 / 0.0 = Error! Division by zero is not allowed.
+Do you want to perform another calculation? (y/n): y
+==================================================
+
+  The Operations in calculator are:
+  =========================================
+  1. Addition
+  2. Subtraction
+  3. Multiplication
+  4. Division
+  5. Exit
+Invalid Input, please select the operation again correctly.
+Do you want to perform another calculation? (y/n): y
+==================================================
+
+  The Operations in calculator are:
+  =========================================
+  1. Addition
+  1. Addition
+  2. Subtraction
+  3. Multiplication
+  4. Division
+  5. Exit
+Select The Operation You Want To Perform (1/2/3/4/5): 5
+Exiting, Goodbye!
