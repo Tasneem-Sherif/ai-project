@@ -1,0 +1,19 @@
+=== Shopping Result ===
+Buyer Name: Mohamed Nageeb
+Total price to be paid: 53960.00 LE
+
+Purchased Items:
+water - Quantity: 100 - Total price: 8360.00 LE
+eggs - Quantity: 200 - Total price: 38000.00 LE
+soda - Quantity: 50 - Total price: 7600.00 LE
+
+	 < Remaining Product Quantities >	
++-------+----------+
+|  Name | Quantity |
++-------+----------+
+| water |   1900   |
+|  soda |   1150   |
+| chips |   1200   |
+| bread |   1200   |
+|  eggs |   1000   |
++-------+----------+

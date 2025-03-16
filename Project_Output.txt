@@ -1,0 +1,127 @@
+PS C:\Users\Mohamed Nageeb\Documents\Mohamed Mohamed Nageeb\ai-project> & "C:/Users/Mohamed Nageeb/Documents/Mohamed Mohamed Nageeb/ai-project/.venv/Scripts/python.exe" "c:/Users/Mohamed Nageeb/Documents/Mohamed Mohamed Nageeb/ai-project/mohamed_Mohamed_Nageeb/project.py"
+                        < Welcome To Play Store Program > 
+
+1. Sign up
+2. Login
+3. Exit
+
+
+Select the operation you want to perform (1/2/3): 5
+                        ========================================
+
+ <Invalid choice, please try again>
+
+1. Sign up
+2. Login
+3. Exit
+
+
+Select the operation you want to perform (1/2/3): 1
+                        ========================================
+
+<        Sign Up        >
+
+Enter first name: Mohamed
+
+Enter last name: Nageeb
+
+Enter username: Mohamed_Nageeb
+
+Enter password: c;zcc;lz
+
+Username or password is invalid.
+Username should be unique, and password must be at least 10 characters long,
+contain both lowercase and uppercase letters, and include digits.
+
+Enter first name: Mohamed
+
+Enter last name: Nageeb
+
+Enter username: Mohamed_Nageeb
+
+Enter password: Mohamed@123
+                 < Sign-up successful! >
+
+1. Sign up
+2. Login
+3. Exit
+
+
+Select the operation you want to perform (1/2/3): 2
+                        ========================================
+
+<        Login          >
+
+Enter your username: Mohamed_Nageeb
+
+Enter your password: vxvxxv
+                <Incorrect password. Try again>
+
+Enter your username: Mohamed_Nageeb
+
+Enter your password: Mohamed@123
+
+Verification code is: 363
+
+Enter the verification code: 452
+                <Incorrect verification code. Try again>
+
+Enter the verification code: 363
+
+                        Welcome to our application!
++-------+-------+----------+
+|  Name | Price | Quantity |
++-------+-------+----------+
+| water |  88.0 |   2000   |
+|  soda | 160.0 |   1200   |
+| chips |  70.0 |   1200   |
+| bread |  45.0 |   1200   |
+|  eggs | 200.0 |   1200   |
++-------+-------+----------+
+
+Enter product name (or 'exit' to finish): water
+
+Enter the quantity: 100
+
+Total price for 100 water(s): 8360.00 LE
+
+<Product added to cart>
+
+
+Enter product name (or 'exit' to finish): fidh
+
+Product not found. Please enter a valid product.
+
+Enter product name (or 'exit' to finish): eggs
+
+Enter the quantity: 200
+
+Total price for 200 eggs(s): 38000.00 LE
+
+<Product added to cart>
+
+
+Enter product name (or 'exit' to finish): soda
+
+Enter the quantity: 50
+
+Total price for 50 soda(s): 7600.00 LE
+
+<Product added to cart>
+
+
+Enter product name (or 'exit' to finish): exit
+
+Final amount to be paid: 53960.00 LE
+
+         < Thank you for shopping with us! >
+
+1. Sign up
+2. Login
+3. Exit
+
+
+Select the operation you want to perform (1/2/3): 3
+                        ========================================
+
+         < Exiting, Goodbye!     >
