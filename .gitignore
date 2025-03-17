@@ -1,0 +1,7 @@
+data 
+venv
+venv
+.vscode
+*.pylintrc
+__pycache__/
+lung_segment 
